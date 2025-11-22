@@ -1,0 +1,3 @@
+For this assisgment, I had to implement pointers onto previously made functions. I had a prior understanding of these functions, so learning how to utilize pointers was what made this
+difficult. I also included memory allocation to be able to use dynamic data.
+
